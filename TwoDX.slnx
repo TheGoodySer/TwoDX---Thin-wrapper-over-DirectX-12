@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TwoDX/TwoDX.vcxproj" Id="9d3b55c1-3339-4ea8-a00f-a0d308ca9ed4" />
+</Solution>

@@ -1,0 +1,16 @@
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\Resources\Descriptors\SRV\D3D12ShaderResourceView.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12ShaderResourceView.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\Resources\Descriptors\DSV\D3D12DepthStencilView.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12DepthStencilView.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\Resources\Buffers\Index\D3D12IndexBuffer.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12IndexBuffer.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\Resources\Buffers\Constant\D3D12ConstantBuffer.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12ConstantBuffer.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\PipelineState\D3D12PipelineState.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12PipelineState.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\Resources\Buffers\Vertex\D3D12VertexBuffer.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12VertexBuffer.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\RootSignature\D3D12RootSignature.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12RootSignature.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\Synchronizer\D3D12Synchronizer.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12Synchronizer.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\CommandContext\D3D12CommandContext.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12CommandContext.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\Resources\Descriptors\RTV\D3D12RenderTargetView.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12RenderTargetView.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\CommandQueue\D3D12CommandQueue.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12CommandQueue.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\Device\D3D12Device.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\D3D12Device.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\DXGInfrastructure\DXGInfrastructure.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\DXGInfrastructure.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\SwapChain\DXGISwapChain.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\DXGISwapChain.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\pch.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\pch.obj
+C:\Users\tseme\source\repos\TwoDX\TwoDX\D3D12\Resources\Texture\Texture2D.cpp;C:\Users\tseme\source\repos\TwoDX\TwoDX\x64\Debug\Texture2D.obj

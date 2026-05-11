@@ -1,0 +1,4 @@
+C:\Users\tseme\source\repos\TwoDX\x64\Debug\D3D12\D3D12Core.dll
+C:\Users\tseme\source\repos\TwoDX\x64\Debug\D3D12\D3D12Core.pdb
+C:\Users\tseme\source\repos\TwoDX\x64\Debug\D3D12\D3D12SDKLayers.dll
+C:\Users\tseme\source\repos\TwoDX\x64\Debug\D3D12\D3D12SDKLayers.pdb
